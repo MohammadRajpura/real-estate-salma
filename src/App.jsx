@@ -2,7 +2,7 @@ import React from "react";
 import Home from "./components/Home/Home";
 import { createBrowserRouter, RouterProvider } from "react-router-dom";
 import About from "./components/About/About";
-import Contact from "./components/Contact/contact";
+import Contact from "./components/Contact/Contact";
 import Header from "./components/Header/Header";
 import Layout from "./components/Layout/Layout";
 import UserDetails from "./components/UserDetails/UserDetails";
